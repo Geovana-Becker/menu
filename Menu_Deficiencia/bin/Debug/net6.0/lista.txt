@@ -1,0 +1,16 @@
+
+Nome: Thiago
+Data de nascimento: 26/10/1256 00:00:00
+Email: thiago@thiago.com
+Portador de deficiência: True
+Deficiência: Jogador de vida real
+
+----------------------------------------------------
+
+Nome: Becker
+Data de nascimento: 12/12/1212 00:00:00
+Email: becker@becker.com
+Portador de deficiência: True
+Deficiência: Nanismo parcial e jogador de LOL
+
+----------------------------------------------------
